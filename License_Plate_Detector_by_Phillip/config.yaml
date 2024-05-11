@@ -1,0 +1,9 @@
+
+train: D:\Python_Master\License_Plate_Detector_by_Phillip\Data\Car_and_License_Plate_from_jonG312_GitHub\images\train # Absolute(whole) path to the folder containing train images
+val: D:\Python_Master\License_Plate_Detector_by_Phillip\Data\Car_and_License_Plate_from_jonG312_GitHub\images\train # Absolute(whole) path to the folder containing validation images
+
+# Classes
+names:
+  0: License plate
+  1: Vehicle
+
